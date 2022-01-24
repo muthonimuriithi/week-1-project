@@ -54,16 +54,20 @@
 .row{
     display: flex;
     padding: 10px;
+    margin: 6px;
+    background-color: blanchedalmond;
+    border:blue;
 
 
 }
 .column{
-    flex: 33.33%;
-    padding: 5px;
+    flex: 33.33px;
     margin: auto;
-    border: lightsalmon;
+    padding: 10px;
 
-
+}
+.menu h1{
+    text-align: center;
 }
 
 
