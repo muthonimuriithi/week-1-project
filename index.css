@@ -68,8 +68,11 @@
 }
 .menu h1{
     text-align: center;
+    color:crimson;
 }
-
+.menu{
+    display: flex;
+}
 
 
     
